@@ -9,9 +9,6 @@
 - AI chatbot for real-time page adjustments
 - Live preview on settings page
 
----
-
-> "Customize the web to work for you — accessibly, effortlessly."
 
 ## Getting Started
 1. Clone this repo.
