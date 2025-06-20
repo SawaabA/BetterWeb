@@ -9,7 +9,8 @@
 - AI chatbot for real-time page adjustments
 - Live preview on settings page
 
-
+![Alt text](1744342011361.jpg)
+![Alt text](1744342011396.jpg)
 ## Getting Started
 1. Clone this repo.
 2. Go to `chrome://extensions/`
